@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Pranav
+#### Batch of '23, Ashoka University
 
-<!--
-**Pranav132/Pranav132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working at Symmetric Technologies Pvt. Ltd., Bangalore as a **full stack development intern**
+- 🌱 I’m currently learning **MERN and Flutter**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pranav-kumar-iyengar/), [Email](mailto:pranav.iyengar_ug23@ashoka.edu.in) or [my website](https://pranav132.github.io)
+- 🏀 In my free time, you can either find me playing basketball or hanging out with my dog.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranav132&hide=contribs,prs, stars, issues&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
