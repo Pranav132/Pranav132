@@ -2,8 +2,8 @@
 #### Batch of '23, Ashoka University
 
 
-- 🔭 I’m currently working at Symmetric Technologies Pvt. Ltd., Bangalore as a **full stack development intern**
-- 🌱 I’m currently learning **MERN and Flutter**
+- 🔭 I’m currently working at **Withub** as a **full stack development intern**
+- 🌱 I’m currently learning **PERN**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pranav-kumar-iyengar/), [Email](mailto:pranav.iyengar_ug23@ashoka.edu.in) or [my website](https://pranav132.github.io)
 - 🏀 In my free time, you can either find me playing basketball or hanging out with my dog.
 
