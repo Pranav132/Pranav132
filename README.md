@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at **Withub** as a **full stack development intern**
 - 🌱 I’m currently learning **Flutter**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pranav-kumar-iyengar/), [Email](mailto:pranav.iyengar_ug23@ashoka.edu.in) or [my website](https://pranav132.github.io)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pranav-kumar-iyengar/), [Email](mailto:contact@pranaviyengar.com) or [my website](https://pranav132.github.io)
 
 
 
