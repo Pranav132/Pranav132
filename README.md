@@ -2,9 +2,9 @@
 #### Batch of '23, Ashoka University
 
 
-- 🔭 I’m currently working at **The Coding Company** as a **Founder**
-- 🌱 I’m currently learning **Svelte**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pranav-kumar-iyengar/), [Email](mailto:contact@pranaviyengar.com) or [my website](https://www.pranaviyengar.com)
+- 🔭 I’m currently working at **The Coding Company** as a **Founder and CTO**
+- 🌱 I’m currently learning **Alpine.js**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pranav-kumar-iyengar/), [Email](mailto:iyengarpranav13@gmail.com) or [my website](https://pranav132.github.io)
 
 
 
