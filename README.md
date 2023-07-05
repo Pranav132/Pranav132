@@ -1,9 +1,11 @@
 ### Hi, I'm Pranav
 #### Batch of '23, Ashoka University
+#### IITM Online Degree - Programming and Data Science
+#### Advanced Scholars Programme '24, Ashoka University
 
 
-- 🔭 I’m currently working at **The Coding Company** as a **Founder and CTO**
-- 🌱 I’m currently learning **Alpine.js**
+- 🔭 I’m currently working at **AmuseLabs** as a **Software Development and Testing Intern**
+- 🌱 I’m currently learning **Java and Selenium**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pranav-kumar-iyengar/), [Email](mailto:iyengarpranav13@gmail.com) or [my website](https://pranav132.github.io)
 
 
